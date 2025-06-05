@@ -6,14 +6,14 @@ stages:
     deps:
     - path: data/gutenberg
       md5: 41d960155f1a7f55480c03cea68ba2a7.dir
-      size: 10940
+      size: 11223
       nfiles: 11
     - path: src/cdstemplate/corpus_counter_script.py
       hash: md5
-      md5: 0db1baa08c580811414d608bd98bd7d9
-      size: 2596
+      md5: 37ea547c00569b7468caa4c7615c590d
+      size: 2663
     outs:
     - path: data/gutenberg_counts.csv
       hash: md5
-      md5: 346733ebed78882d3b9871db6ef32043
-      size: 4519
+      md5: bc89b91be10d7887e72922d85d8ebc4e
+      size: 5467
